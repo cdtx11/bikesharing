@@ -1,6 +1,6 @@
 # CitiBike Analysis
 ### Module 14 with Tableau 
-[Link to Dashboard]("https://public.tableau.com/profile/claire.davis1768#!/vizhome/ChallengeDeliverable/Story1")
+[Link to Dashboard](https://public.tableau.com/profile/claire.davis1768#!/vizhome/ChallengeDeliverable/Story1)
 
 ## Overview
 
